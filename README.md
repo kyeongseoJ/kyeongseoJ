@@ -1,7 +1,4 @@
 ### Hi there 👋 / Hallo Leute 👋
-##### I'm a superbaby on AI-World! 👶
-(I just started learning artificial intelligence.)
-Pls give me a lot of advice for my development-ability. 👩🏻‍💻
 
 <!--
 **kyeongseoJ/kyeongseoJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
