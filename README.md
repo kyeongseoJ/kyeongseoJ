@@ -20,8 +20,8 @@ Here are some ideas to get you started:
  
 <!-- 등급표 표출  -->
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyeongseoJ)](https://github.com/kyeongseoJ/github-readme-stats) -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyeongseoJ&show_icons=true&theme=codeSTACKr&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyeongseoJ&show_icons=true&theme=codeSTACKr&count_private=true&width=45%)
 <!-- 사용언어 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyeongseoJ&layout=compact&theme=codeSTACKr&langs_count=8)](https://github.com/kyeongseoJ/kyeongseoJ)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyeongseoJ&layout=compact&theme=codeSTACKr&langs_count=8&width=45%)](https://github.com/kyeongseoJ/kyeongseoJ)
 <!-- 레포카드 추가 생성 디자인 -->
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kyeongseoJ&repo=kyeongseoJ&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats) -->
