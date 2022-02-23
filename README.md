@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 <!-- 사용언어 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyeongseoJ&layout=compact&theme=codeSTACKr)](https://github.com/kyeongseoJ/kyeongseoJ)
 <!-- 레포카드 디자인 -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kyeongseoJ&repo=kyeongseoJ&theme=codeSTACKr)](https://github.com/kyeongseoJ/kyeongseoJ)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kyeongseoJ&repo=kyeongseoJ&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
