@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyeongseoJ)](https://github.com/kyeongseoJ/github-readme-stats) -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyeongseoJ&show_icons=true&theme=codeSTACKr&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyeongseoJ&layout=compact)](https://github.com/kyeongseoJ/kyeongseoJ)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyeongseoJ&layout=compact&theme=codeSTACKr)](https://github.com/kyeongseoJ/kyeongseoJ)
