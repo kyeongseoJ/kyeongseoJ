@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyeongseoJ)](https://github.com/kyeongseoJ/github-readme-stats) -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyeongseoJ&show_icons=true&theme=codeSTACKr&count_private=true)
 <!-- 사용언어 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyeongseoJ&layout=compact&theme=codeSTACKr)](https://github.com/kyeongseoJ/kyeongseoJ)
-<!-- 레포카드 디자인 -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyeongseoJ&layout=compact&theme=codeSTACKr&langs_count=8)](https://github.com/kyeongseoJ/kyeongseoJ)
+<!-- 레포카드 추가 생성 디자인 -->
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kyeongseoJ&repo=kyeongseoJ&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats) -->
