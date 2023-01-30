@@ -1,4 +1,4 @@
-### Hi there 👋 / Hallo Leute 👋
+### Herzlich Willkommen
 <hr>
 
 <div align=center, display=flex>
